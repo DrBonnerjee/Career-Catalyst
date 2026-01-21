@@ -1,8 +1,8 @@
 **Finishing School: Bridging India’s Education-to-Employment Gap**<br>
 
-Finishing School transforms capable graduates into confident, corporate-ready professionals.<br>
-We bridge the space between knowing and doing.<br>
-We don’t teach for exams. We prepare for impact. <br>
+*Finishing School transforms capable graduates into confident, corporate-ready professionals.<br>
+*We bridge the space between knowing and doing.<br>
+*We don’t teach for exams. We prepare for impact. <br>
 
 All programs build four interconnected capabilities: professional communication and corporate presence, 
 including business writing, presentations, and executive confidence; applied economic literacy and financial 
