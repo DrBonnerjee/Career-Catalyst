@@ -1,21 +1,60 @@
-**Finishing School: Bridging India’s Education-to-Employment Gap**<br>
+# Finishing School: Bridging India's Education-to-Employment Gap
 
-*Finishing School transforms capable graduates into confident, corporate-ready professionals.<br>
-*We bridge the space between knowing and doing.<br>
-*We don’t teach for exams. We prepare for impact. <br>
+> **Finishing School transforms capable graduates into confident, corporate-ready professionals.**
 
-All programs build four interconnected capabilities: professional communication and corporate presence, 
-including business writing, presentations, and executive confidence; applied economic literacy and financial 
-acumen for understanding markets, reading P&Ls, and making informed decisions; 
-data proficiency using Excel and analytics to turn numbers into insights; and analytical thinking with a 
-corporate mindset grounded in evidence-based reasoning, teamwork, and professional judgment. <br>
+We bridge the space between knowing and doing. We don't teach for exams—we prepare for impact.
 
-Our learning methodology is immersive, not lecture-based, combining collaborative cohort-driven sessions with 
-1.5 - 2 hours of hands-on tasks, cases, and teamwork each session. 
+---
 
-**Finishing School isn’t a course—it’s a catalyst.**
+## 🎯 What We Build
 
-This repository hosts the HTML-based learning sessions
-used in the Finishing School program.
+All programs develop four interconnected capabilities:
+
+### 1. Professional Communication & Corporate Presence
+- Business writing and professional correspondence
+- Presentations and executive communication
+- Executive confidence and workplace presence
+
+### 2. Applied Economic Literacy & Financial Acumen
+- Understanding markets and business dynamics
+- Reading and interpreting P&Ls
+- Making informed financial decisions
+
+### 3. Data Proficiency
+- Excel mastery and analytics tools
+- Transforming numbers into actionable insights
+- Data-driven decision making
+
+### 4. Analytical Thinking & Corporate Mindset
+- Evidence-based reasoning
+- Collaborative teamwork
+- Professional judgment and problem-solving
+
+---
+
+## 📚 Our Learning Methodology
+
+**Immersive, not lecture-based:**
+
+- Collaborative cohort-driven sessions
+- 1.5 - 2 hours of hands-on tasks per session
+- Real-world cases and practical teamwork
+- Learning by doing, not memorizing
+
+---
+
+## 💡 Philosophy
+
+**Finishing School isn't a course—it's a catalyst.**
+
+We transform knowledge into capability, potential into performance.
+
+---
+
+## 📂 Repository Contents
+
+This repository hosts the HTML-based learning sessions used in the Finishing School program.
+
+![Finishing School Courses](assets/finishing_school_diagram.png)
 
 ![Finishing School Courses](assets/finishing_school_diagram.png)
