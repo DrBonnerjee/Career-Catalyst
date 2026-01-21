@@ -1,1 +1,1 @@
-![Module 2 Course Overview](../assets/module_2_flow_diagram.png)
+![Module 2 Course Overview](../assets/module2_flow_diagram.png)
