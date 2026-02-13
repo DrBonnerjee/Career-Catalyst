@@ -53,7 +53,7 @@ We transform knowledge into capability, potential into performance.
 
 ## 📂 Repository Contents
 
-This repository hosts the HTML-based learning sessions used in the Finishing School program.
+This repository hosts the HTML-based learning sessions used in the C-CAT program.
 
 
 ![Career Catalyst](assets/finishing_school_diagram.png)
