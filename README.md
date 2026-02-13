@@ -45,7 +45,7 @@ All programs develop four interconnected capabilities:
 
 ## 💡 Philosophy
 
-**Finishing School isn't a course—it's a catalyst.**
+**C-CAT isn't a course—it's a catalyst.**
 
 We transform knowledge into capability, potential into performance.
 
