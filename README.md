@@ -1,6 +1,6 @@
-# Finishing School: Bridging India's Education-to-Employment Gap
+# Career Catalyst (C-CAT): Bridging India's Education-to-Employment Gap
 
-> **Finishing School transforms capable graduates into confident, corporate-ready professionals.**
+> **C-CAT transforms capable graduates into confident, corporate-ready professionals.**
 
 We bridge the space between knowing and doing. We don't teach for exams—we prepare for impact.
 
@@ -56,4 +56,4 @@ We transform knowledge into capability, potential into performance.
 This repository hosts the HTML-based learning sessions used in the Finishing School program.
 
 
-![Finishing School Courses](assets/finishing_school_diagram.png)
+![Career Catalyst](assets/finishing_school_diagram.png)
